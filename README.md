@@ -25,7 +25,7 @@ CSP 5'te pencereler beyaz çıkıyor: Wine'ın `dcomp.dll` (DirectComposition) b
 Önceki 4.1.0 kurulumun (`~/.wine-csp`) **ayrı kalır**. csp5 şuralarda yaşar: `~/.local/share/csp5` (Wine + prefix), `~/.cache/csp5-installer` (indirmeler).
 
 ## Kurulum
-1) Realese kismindan CSP 5.1.5 surumunu indirip csp5 klasorune koy...
+1) Ilk olarak csp5 klasoru olustur sonra Realese kismindan CSP 5.1.5 surumunu ve zip'i indirip csp5 klasorune koy...
 2)
 ```bash
 cd csp5-ubuntu
